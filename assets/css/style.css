@@ -22,9 +22,6 @@ main {
 .card-header {
   background-color: #FFB936 !important;
   height: 87px !important;
-  text-align: center !important;
-  align-items: center !important;
-  vertical-align: middle !important;
 }
 
 @media  only screen and (max-width:1000px) {
