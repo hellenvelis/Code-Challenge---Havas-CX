@@ -14,6 +14,7 @@ main {
 
 #box {
   width: 30%;
+
   padding-top: 20px;
   
 }
@@ -34,4 +35,8 @@ main {
 
 .card-header {
   background-color: #FFB936 !important;
+  height: 90px !important;
+  text-align: center !important;
+  align-items: center !important;
+  vertical-align: middle !important;
 }
