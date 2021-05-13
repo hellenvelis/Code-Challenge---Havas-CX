@@ -1,0 +1,37 @@
+main {
+  background-color: #EEEEEE;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: 
+
+}
+
+#box {
+  width: 30%;
+  padding-top: 20px;
+  
+}
+
+.container1 {
+  display: flex;
+  width: 50%;
+
+  background-color:blue;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.card card-body {
+  border-radius: 20px !important;
+}
+
+.card-header {
+  background-color: #FFB936 !important;
+}
